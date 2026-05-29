@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm  Jenish Patoliya<br>A Computer Science student passionate about  AI, Machine Learning, and Problem Solving.  <br>I enjoy building real-world projects, exploring new technologies, and improving my DSA skills through competitive programming.<br><br>## 🚀 What I'm Doing<br><br>🧠 Exploring AI, Machine Learning, and NLP  <br>💻 Passionate about DSA and Competitive Programming  <br>🚀 Building ML-based real-world projects  <br>🤝 Open to collaboration on AI and Open Source projects  <br>⚡ Love optimizing code and solving challenging problems
+ I'm  Jenish Patoliya<br>A Computer Science student passionate about  AI, Machine Learning, and Problem Solving.  <br>I enjoy building real-world projects, exploring new technologies, and improving my DSA skills through competitive programming.<br><br> 🚀 What I'm Doing<br><br>🧠 Exploring AI, Machine Learning, and NLP  <br>💻 Passionate about DSA and Competitive Programming  <br>🚀 Building ML-based real-world projects  <br>🤝 Open to collaboration on AI and Open Source projects  <br>⚡ Love optimizing code and solving challenging problems
 
 
 ## 🌐 Socials:
